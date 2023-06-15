@@ -42,3 +42,10 @@
 <p>1. Добавьте авторизацию и аутентификацию в сервис чата.</p>
 <p>2. Загрузите код в репозиторий. Оставьте ссылку на коммит.</p>
 <p>3. Переведите ответственного на Петра Арсентьева.</p></p></div></div></div><!---->
+
+
+### Контакты
+
+> email: [haoos@inbox.ru](mailto:haoos@inbox.ru) <br>
+> tl: [Dima_software](https://t.me/Dima_software) <br>
+> github.com: [Dima-Stepanov](https://github.com/Dima-Stepanov)
